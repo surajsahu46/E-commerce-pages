@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-pages",
+  "version": "1.0.0",
+  "description": "A simple e-commerce page project",
+  "main": "index.js",
+  "scripts": {
+      "build": "webpack"
+  },
+  "dependencies": {
+      "sass": "^1.51.0"
+  },
+  "devDependencies": {
+      "css-loader": "^6.5.1",
+      "style-loader": "^3.3.1",
+      "ts-loader": "^9.4.2",
+      "typescript": "^4.5.2",
+      "webpack": "^5.65.0",
+      "webpack-cli": "^4.9.1",
+      "webpack-dev-server": "^4.7.1"
+  },
+  "author": "Suraj Sahu",
+  "license": "MIT"
+}
